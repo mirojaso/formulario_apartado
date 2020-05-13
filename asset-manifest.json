@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/form-prebooking/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/form-prebooking/static/js/main.0315d433.chunk.js",
+    "main.js.map": "/form-prebooking/static/js/main.0315d433.chunk.js.map",
+    "runtime-main.js": "/form-prebooking/static/js/runtime-main.75b04b7f.js",
+    "runtime-main.js.map": "/form-prebooking/static/js/runtime-main.75b04b7f.js.map",
+    "static/js/2.ba773566.chunk.js": "/form-prebooking/static/js/2.ba773566.chunk.js",
+    "static/js/2.ba773566.chunk.js.map": "/form-prebooking/static/js/2.ba773566.chunk.js.map",
+    "index.html": "/form-prebooking/index.html",
+    "precache-manifest.dbec04439bad9406a5497dab29e8833d.js": "/form-prebooking/precache-manifest.dbec04439bad9406a5497dab29e8833d.js",
+    "service-worker.js": "/form-prebooking/service-worker.js",
+    "static/css/main.8ab6f918.chunk.css.map": "/form-prebooking/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.ba773566.chunk.js.LICENSE.txt": "/form-prebooking/static/js/2.ba773566.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75b04b7f.js",
+    "static/js/2.ba773566.chunk.js",
+    "static/css/main.8ab6f918.chunk.css",
+    "static/js/main.0315d433.chunk.js"
+  ]
+}
